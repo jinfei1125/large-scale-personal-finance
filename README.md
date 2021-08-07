@@ -1,6 +1,6 @@
 # Large Scale Computing Project: Personal Finance Concerns Analysis
 
-This is the GitHub repository for the final project of MACS 30123 Large Scale Computing.
+This is the large scale content analysis on the discussion on the Personal Finance subreddit. You could find the analysis on 1-year's discussion [at this repository](https://github.com/jinfei1125/personal-finance).
 
 Author: Jinfei Zhu
 
